@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-labelledby="title desc">
+  <title id="title">Traditional Kalash with Coconut</title>
+  <desc id="desc">A clean vector illustration of a Gujarati ritual kalash, coconut and mango leaves on a transparent background.</desc>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <!-- mango leaves -->
+    <path d="M155 104 C105 72 74 48 54 28 C92 28 133 50 160 91" fill="#7F9465" stroke="#41483D" stroke-width="3"/>
+    <path d="M163 101 C181 60 216 37 260 31 C239 65 204 91 166 111" fill="#91A778" stroke="#41483D" stroke-width="3"/>
+    <path d="M154 100 C125 54 122 26 135 12 C157 39 165 68 163 103" fill="#A4B787" stroke="#41483D" stroke-width="3"/>
+    <path d="M154 93 L78 39 M168 101 L241 42 M157 91 L139 23" fill="none" stroke="#41483D" stroke-width="2"/>
+    <!-- coconut -->
+    <path d="M137 87 C135 58 148 35 164 26 C181 39 192 62 185 91 Z" fill="#B9824A" stroke="#7D4A2C" stroke-width="3"/>
+    <path d="M148 78 L163 34 M159 84 L177 41 M170 84 L186 54 M142 63 L178 34" fill="none" stroke="#E4B879" stroke-width="2.5"/>
+    <!-- kalash neck -->
+    <path d="M126 115 L194 115 L188 139 Q160 150 132 139 Z" fill="#D99A3C" stroke="#8E4B2D" stroke-width="3"/>
+    <path d="M126 121 Q160 130 194 121 M130 132 Q160 141 190 132" fill="none" stroke="#B65E46" stroke-width="3"/>
+    <!-- pot body -->
+    <path d="M132 139 C126 163 101 177 101 210 C101 247 126 269 160 269 C194 269 219 247 219 210 C219 177 194 163 188 139 Z" fill="#F3D8A0" stroke="#8E4B2D" stroke-width="3.5"/>
+    <!-- rim -->
+    <path d="M126 139 Q160 150 194 139" fill="none" stroke="#8E4B2D" stroke-width="3"/>
+    <path d="M108 199 Q160 215 212 199 M110 231 Q160 245 210 231" fill="none" stroke="#B65E46" stroke-width="4"/>
+    <!-- decorative bands -->
+    <path d="M113 183 Q160 196 207 183 M116 246 Q160 258 204 246" fill="none" stroke="#C49A45" stroke-width="3"/>
+    <!-- simple swastika-free floral motifs -->
+    <g fill="none" stroke="#B65E46" stroke-width="2.5">
+      <path d="M142 174 C132 163 125 177 142 188 C159 177 152 163 142 174 Z"/>
+      <path d="M178 174 C168 163 161 177 178 188 C195 177 188 163 178 174 Z"/>
+      <path d="M160 211 C146 196 139 215 160 228 C181 215 174 196 160 211 Z"/>
+      <path d="M132 224 L138 218 L144 224 L138 230 Z M182 224 L188 218 L194 224 L188 230 Z"/>
+    </g>
+    <!-- base -->
+    <path d="M125 269 Q160 281 195 269 L190 281 Q160 291 130 281 Z" fill="#D99A3C" stroke="#8E4B2D" stroke-width="3"/>
+    <path d="M117 287 Q160 298 203 287" fill="none" stroke="#B65E46" stroke-width="3"/>
+    <!-- small decorative ground line -->
+    <path d="M70 300 Q160 310 250 300" fill="none" stroke="#C49A45" stroke-width="2"/>
+  </g>
+</svg>

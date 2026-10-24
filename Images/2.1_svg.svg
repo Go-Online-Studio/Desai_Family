@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 300" role="img" aria-labelledby="title desc">
+  <title id="title">Gujarati Prasad Thali</title>
+  <desc id="desc">A clean vector illustration of a Gujarati vegetarian prasad thali with separate bowls, roti and simple food details on a transparent background.</desc>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <!-- plate shadow-free outer rim -->
+    <ellipse cx="180" cy="178" rx="153" ry="87" fill="#F3D8A0" stroke="#8E4B2D" stroke-width="4"/>
+    <ellipse cx="180" cy="175" rx="140" ry="75" fill="#FFF0C9" stroke="#C49A45" stroke-width="3"/>
+    <ellipse cx="180" cy="175" rx="127" ry="63" fill="none" stroke="#B65E46" stroke-width="2"/>
+    <!-- roti -->
+    <path d="M194 114 C210 89 253 92 272 115 C289 136 279 157 253 163 C226 169 194 151 190 132 Z" fill="#E8B66C" stroke="#8E4B2D" stroke-width="3"/>
+    <path d="M211 115 Q235 106 258 122 M207 132 Q234 125 267 140 M226 149 L252 130" fill="none" stroke="#C7833D" stroke-width="2.5"/>
+    <!-- top bowl: curd -->
+    <ellipse cx="167" cy="111" rx="42" ry="27" fill="#C49A45" stroke="#8E4B2D" stroke-width="3"/>
+    <ellipse cx="167" cy="107" rx="35" ry="20" fill="#FFF8E7" stroke="#8E4B2D" stroke-width="2.5"/>
+    <path d="M151 105 Q167 94 183 106" fill="none" stroke="#E6D7A8" stroke-width="3"/>
+    <path d="M167 98 C159 91 155 100 167 108 C179 100 175 91 167 98 Z" fill="#71865A" stroke="#41483D" stroke-width="1.5"/>
+    <!-- left bowl: dal -->
+    <ellipse cx="95" cy="157" rx="43" ry="29" fill="#C49A45" stroke="#8E4B2D" stroke-width="3"/>
+    <ellipse cx="95" cy="153" rx="35" ry="21" fill="#E9A83E" stroke="#8E4B2D" stroke-width="2.5"/>
+    <circle cx="83" cy="149" r="3" fill="#71865A"/><circle cx="104" cy="158" r="3" fill="#71865A"/><circle cx="111" cy="146" r="2.5" fill="#B65E46"/>
+    <!-- bottom left bowl: shaak -->
+    <ellipse cx="137" cy="207" rx="43" ry="29" fill="#C49A45" stroke="#8E4B2D" stroke-width="3"/>
+    <ellipse cx="137" cy="203" rx="35" ry="21" fill="#B65E46" stroke="#8E4B2D" stroke-width="2.5"/>
+    <circle cx="125" cy="199" r="5" fill="#E9A83E"/><circle cx="145" cy="207" r="5" fill="#71865A"/><circle cx="151" cy="196" r="3" fill="#F3D8A0"/>
+    <!-- bottom right bowl: kheer -->
+    <ellipse cx="217" cy="207" rx="41" ry="28" fill="#C49A45" stroke="#8E4B2D" stroke-width="3"/>
+    <ellipse cx="217" cy="203" rx="33" ry="20" fill="#FFF5DF" stroke="#8E4B2D" stroke-width="2.5"/>
+    <ellipse cx="207" cy="199" rx="3" ry="2" fill="#B9824A"/><ellipse cx="224" cy="208" rx="3" ry="2" fill="#B9824A"/><ellipse cx="228" cy="196" rx="3" ry="2" fill="#71865A"/>
+    <!-- small garnish sprig -->
+    <path d="M274 224 Q294 207 305 188 M288 210 Q275 205 272 194 M296 201 Q308 202 313 192" fill="none" stroke="#41483D" stroke-width="2.5"/>
+    <path d="M273 194 Q282 192 282 202 Q275 205 273 194 Z M307 192 Q316 186 315 197 Q310 200 307 192 Z" fill="#91A778" stroke="#41483D" stroke-width="1.5"/>
+  </g>
+</svg>
